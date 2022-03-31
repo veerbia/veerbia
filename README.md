@@ -1,4 +1,4 @@
-### 👋 Hi I'm Veer 
+### Hi there, my name is Veer 👋 
 
 - 🔭 I’m currently working on SkillsMarketCap and Orwell (LOI Labs Batch 8)
 - 🌱 I’m currently learning GraphQL
