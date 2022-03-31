@@ -1,7 +1,8 @@
-### Hi I'm Veer 👋
+### 👋 Hi I'm Veer 
 
-- 🔭 I’m currently working on SkillsMarketCap and Orwell (LOI labs Batch 8)
+- 🔭 I’m currently working on SkillsMarketCap and Orwell (LOI Labs Batch 8)
 - 🌱 I’m currently learning GraphQL
-- 👯 I’m looking to collaborate on social impact projects 
+- 👨‍💻 Learn more about me 
+- 👯 I’m interested in collaborating on social impact projects 
 - 💬 Ask me about TypeScript, React, and Stochastic Optimization Algorithms
 - 📫 How to reach me: mailto:veer-p@outlook.com
