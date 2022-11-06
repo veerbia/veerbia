@@ -1,6 +1,6 @@
 ### Hi I'm Veer 👋
 
-- 🔭 Current projects include SkillsMarketCap and Orwell (LOI Labs Batch 8)
+- 🔭 Current projects/open-source work: SkillsMarketCap and [twitter/birdwatch](https://github.com/twitter/birdwatch) 
 - 🌱 I’m currently learning GraphQL
 - 👨‍💻 Learn more about me [here](https://veerbia.github.io) 
 - 👯 I’m interested in collaborating on social impact projects 
