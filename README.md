@@ -52,16 +52,18 @@ SkillsMarketCap
 
 <br>
 
-## ⚡ Fun facts
-- I play a lot of basketball 🏀
-- I love learning foreign languages in my free time 🇫🇷 🇨🇳 🇯🇵 
-- I've never had coffee/tea
-
-<br>
-
 
 - 🌱 I’m currently learning GraphQL
 - 👨‍💻 Learn more about me [here](https://veerbia.github.io) 
 - 👯 I’m interested in collaborating on social impact projects 
 - 💬 Ask me about TypeScript, React, and Stochastic Optimization Algorithms
 - 📫 How to reach me: [veer-p@outlook.com](mailto:veer-p@outlook.com)
+
+<br>
+
+## ⚡ Fun facts
+- I play a lot of basketball 🏀
+- I love learning foreign languages in my free time 🇫🇷 🇨🇳 🇯🇵 
+- I've never had coffee/tea
+
+
