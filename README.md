@@ -63,7 +63,7 @@ SkillsMarketCap
 
 ## ⚡ Fun facts
 - I play a lot of basketball 🏀
-- I love learning foreign languages in my free time 🇫🇷 🇨🇳 🇯🇵 
+- I love learning foreign languages in my free time 🇫🇷 🇨🇳 
 - I've never had coffee/tea
 
 
