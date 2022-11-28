@@ -4,7 +4,7 @@
 
 Hi there 👋 
 
-I'm Veer, a 3rd-year Computer Science student at UBC, lifelong learner, and SWE intern. My mission is to craft beautiful and efficient web applications that make an impact. 
+I'm Veer, a 3rd-year Computer Science student at UBC, lifelong learner, and current SWE intern. My mission is to craft beautiful and efficient web applications that make an impact. 
 
 Want to learn more about me? [Check out my portfolio.](https://veerbia.github.io)
 
