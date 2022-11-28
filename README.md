@@ -57,6 +57,8 @@ SkillsMarketCap
 - I love learning foreign languages in my free time 🇫🇷 🇨🇳 🇯🇵 
 - I've never had coffee/tea
 
+<br>
+
 
 - 🌱 I’m currently learning GraphQL
 - 👨‍💻 Learn more about me [here](https://veerbia.github.io) 
