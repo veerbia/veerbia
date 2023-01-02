@@ -6,7 +6,7 @@ Hi there 👋
 
 I'm Veer, a 3rd-year Computer Science and Math student at UBC, lifelong learner, and current SWE intern. My mission is to craft beautiful and efficient web applications that make an impact. 
 
-Want to learn more about me? [Check out my portfolio.](https://veerbia.github.io){:target="_blank"}
+Want to learn more about me? <a href="https://veerbia.github.io" target="_blank">Check out my portfolio.</a>
 
 <br>
 
