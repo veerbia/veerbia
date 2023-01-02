@@ -63,7 +63,7 @@ SkillsMarketCap
 
 ## ⚡ Fun facts
 - I play a lot of basketball 🏀
-- I successfully shipped one of the first PRs to Twitter's [Community Notes](https://github.com/twitter/communitynotes)
+- I was the first open source contributer to Twitter's [Community Notes repo](https://github.com/twitter/communitynotes)
 - I love learning foreign languages in my free time 🇫🇷 🇨🇳 
 - I've never had coffee/tea
 
