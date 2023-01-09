@@ -10,7 +10,7 @@ Want to learn more about me? [Check out my portfolio.](https://veerbia.github.io
 
 <p align="center">
 <small>View Counter:</small><br>
-<img src="https://profile-counter.glitch.me/tche/count.svg" /> 
+<img src="https://profile-counter.glitch.me/veerbia/count.svg" /> 
 </p>
 
 <br>
