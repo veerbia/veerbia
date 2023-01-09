@@ -8,6 +8,11 @@ I'm Veer, a 3rd-year Computer Science and Math student at UBC, lifelong learner,
 
 Want to learn more about me? [Check out my portfolio.](https://veerbia.github.io)
 
+<p align="center">
+<small>View Counter:</small><br>
+<img src="https://profile-counter.glitch.me/tche/count.svg" /> 
+</p>
+
 <br>
 
 ## 🔭 Current Project
