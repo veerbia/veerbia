@@ -8,11 +8,6 @@ I'm Veer, a 3rd-year Computer Science and Math student at UBC, lifelong learner,
 
 Want to learn more about me? [Check out my portfolio.](https://veerbia.com)
 
-<p align="center">
-<small>View Counter:</small><br>
-<img src="https://profile-counter.glitch.me/veerbia/count.svg" /> 
-</p>
-
 <br>
 
 ## 🔭 Current Project
@@ -72,4 +67,7 @@ SkillsMarketCap
 - I love learning foreign languages in my free time 🇫🇷 🇨🇳 
 - I've never had coffee/tea
 
-
+<p align="center">
+<small>View Counter:</small><br>
+<img src="https://profile-counter.glitch.me/veerbia/count.svg" /> 
+</p>
