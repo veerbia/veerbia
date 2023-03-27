@@ -29,8 +29,3 @@ Learn more about me [here](https://veerbia.github.io)
 - I was the first open source contributer to Twitter's [Community Notes repo](https://github.com/twitter/communitynotes)
 - I love learning foreign languages in my free time 🇫🇷 🇨🇳 
 - I've never had coffee/tea
-
-<p align="center">
-<small>View Counter:</small><br>
-<img src="https://profile-counter.glitch.me/veerbia/count.svg" /> 
-</p>
