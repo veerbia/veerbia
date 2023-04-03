@@ -19,7 +19,7 @@ Learn more about me [here](https://veerbia.github.io)
 
 <br>
 
-- I'm currently working on [CensusGPT](https://github.com/caesarHQ/textSQL). Check out our demo [here](censusgpt.com)
+- I'm currently working on [CensusGPT](https://github.com/caesarHQ/textSQL)
 - 📫 How to reach me: [veer-p@outlook.com](mailto:veer-p@outlook.com)
 
 <br>
