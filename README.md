@@ -1,2 +1,2 @@
 <!-- [![Veer's GitHub Header](./assets/new-header.png)](https://veerbia.github.io) -->
-i love LLMs
+i love large language models (LLMs) and multithreaded python
