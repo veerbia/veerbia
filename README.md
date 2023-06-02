@@ -5,7 +5,7 @@
 - writing leetcode solutions
 
 check out:
-- [CensusGPT](https://censusgpt.com/)
-- [SanFranciscoGPT](https://sanfranciscogpt.com/)
-- [HoopsGPT](https://hoopsgpt.ai/)
+- 📊 [CensusGPT](https://censusgpt.com/)
+- 🌉 [SanFranciscoGPT](https://sanfranciscogpt.com/)
+- 🏀 [HoopsGPT](https://hoopsgpt.ai/)
 
