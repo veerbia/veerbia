@@ -1,2 +1,2 @@
 <!-- [![Veer's GitHub Header](./assets/new-header.png)](https://veerbia.github.io) -->
-enjoys writing single-threaded code
+enjoys having multi-threaded conversation and writing single-threaded code
