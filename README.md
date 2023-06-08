@@ -2,7 +2,7 @@
 - exploring applications of large language models 
 - anticipating artificial general intelligence (1 million token context window)
 - adding walrus operators to python 3.10 code 
-- competitively leetcoding
+- competitive programming 
 
 check out:
 - 📊 [CensusGPT](https://censusgpt.com/)
