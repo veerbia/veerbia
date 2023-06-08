@@ -5,7 +5,7 @@ currently:
 - adding walrus operators to python 3.10 code 
 - writing leetcode solutions
 
-check out:
+check out some cool stuff:
 - 📊 [CensusGPT](https://censusgpt.com/)
 - 🌉 [SanFranciscoGPT](https://sanfranciscogpt.com/)
 - 🏀 [HoopsGPT](https://hoopsgpt.ai/)
