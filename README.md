@@ -6,3 +6,4 @@
 - 👤 [ShareCharacterAI](https://chrome.google.com/webstore/detail/sharecharacterai-copy-cha/lheaackdnillimheijacknleojfobopn)
 
  -->
+really like c++
