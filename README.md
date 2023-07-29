@@ -6,4 +6,4 @@
 - 👤 [ShareCharacterAI](https://chrome.google.com/webstore/detail/sharecharacterai-copy-cha/lheaackdnillimheijacknleojfobopn)
 
  -->
- single-threaded python enthusiast
+ python is cool 
