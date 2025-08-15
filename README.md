@@ -1,1 +1,1 @@
-copmuter programmar
+copmuter programar
